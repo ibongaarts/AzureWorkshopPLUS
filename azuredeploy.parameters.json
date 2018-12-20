@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "vnetName": {
-      "value": "ResourceGroupEU-Vnet3"
+      "value": "ResourceGroupEU-Vnet4"
     },
     "vnetAddressPrefix": {
-      "value": "10.3.0.0/16"
+      "value": "10.4.0.0/16"
     },
     "subnet1Prefix": {
-      "value": "10.3.0.0/24"
+      "value": "10.4.0.0/24"
     },
     "subnet1Name": {
-      "value": "VNet3-Subnet0"
+      "value": "VNet4-Subnet0"
     },
     "subnet2Prefix": {
-      "value": "10.3.1.0/24"
+      "value": "10.4.1.0/24"
     },
     "subnet2Name": {
-      "value": "VNet3-Subnet1"
+      "value": "VNet4-Subnet1"
     }
   }
 }
